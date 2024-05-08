@@ -98,3 +98,20 @@ h3 {
     width: 160px;
     height: 160px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 120px 20%;
+    font-size: 36px;
+}
+
+em {
+    font-weight: lighter;
+}
+
+.quote-author {
+    font-weight: bold;
+    margin-right: 60px;
+    text-align: end;
+}
