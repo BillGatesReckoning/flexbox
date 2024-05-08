@@ -115,3 +115,28 @@ em {
     margin-right: 60px;
     text-align: end;
 }
+
+.bottom {
+    padding: 0 10%;
+}
+
+.blue-window{
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2 {
+    margin: 0;
+}
+
+.action-button {
+    margin: 0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #F9FAF8;
+}
